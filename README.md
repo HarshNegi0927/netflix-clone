@@ -22,7 +22,13 @@ This is a basic clone of Netflix built using **HTML**, **CSS**, and **JavaScript
 - **JavaScript (ES6)**: For interactivity and dynamic behavior.
 
 ---
+---
 
+##Visit This For Preview
+
+link---netflix-clone-coral-mu-38.vercel.app
+
+---
 ## Installation
 
 ### Steps to Run Locally
@@ -31,3 +37,7 @@ This is a basic clone of Netflix built using **HTML**, **CSS**, and **JavaScript
    ```bash
    git clone https://github.com/<your-github-username>/netflix-basic-clone.git
    cd netflix-basic-clone
+
+   
+
+   
