@@ -26,7 +26,7 @@ This is a basic clone of Netflix built using **HTML**, **CSS**, and **JavaScript
 
 ##Visit This For Preview
 
-link---netflix-clone-coral-mu-38.vercel.app
+[Link Text](netflix-clone-coral-mu-38.vercel.app)
 
 ---
 ## Installation
